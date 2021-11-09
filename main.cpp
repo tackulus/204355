@@ -1,7 +1,10 @@
 #include <bits/stdc++.h>
 using namespace std;
-int main() {
-  
 
-  cout << "Hello World!\n";
+int main() {
+	ios::sync_with_stdio(0);
+	cin.tie(0);
+
+	cout << "Hello World!\n";
+	return 0;
 } 
