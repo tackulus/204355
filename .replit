@@ -1,1 +1,0 @@
-run = "g++ -std=c++14 -O2 -Wall LEC01_02.cpp -o main; ./main < input.txt > output.txt"
