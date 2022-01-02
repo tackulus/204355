@@ -8,7 +8,20 @@
 		"files.associations": {
 			"iostream": "cpp",
 			"algorithm": "cpp",
-			"random": "cpp"
+			"random": "cpp",
+			"__functional_base": "cpp",
+			"array": "cpp",
+			"future": "cpp",
+			"istream": "cpp",
+			"locale": "cpp",
+			"memory": "cpp",
+			"thread": "cpp",
+			"tuple": "cpp",
+			"utility": "cpp",
+			"variant": "cpp",
+			"*.tcc": "cpp",
+			"functional": "cpp",
+			"cmath": "cpp"
 		}
 	}
 }
