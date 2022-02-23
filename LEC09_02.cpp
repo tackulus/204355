@@ -24,4 +24,4 @@ int main() {
     backtrack(k);
 
 	return 0;
-} 
+} //
