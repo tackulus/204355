@@ -1,0 +1,1 @@
+prime[p] = false; cout << p;

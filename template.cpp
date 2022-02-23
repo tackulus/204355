@@ -2,7 +2,7 @@
 using namespace std;
 
 #define long long long
-#define REP(i,a,b) for (int i=a; i<=b; i++)
+#define REP(i,a,b) for (long i=a; i<=b; i++)
 
 int main() {
     ios::sync_with_stdio(0);
